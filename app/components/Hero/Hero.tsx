@@ -8,7 +8,7 @@ export default function Hero() {
             <div className="content mt-10 ml-5  w-3/4 ">
             <div className="heading text-6xl font-bold">
             {/* EXPERT SOLUTION FOR A COMPLEX WORLD  */}
-        SIMPLIFYING TECHNOLOGY, AMPLIFYING BUSINESS
+        SIMPLIFYING TECHNOLOGY AMPLIFYING BUSINESS
             </div>
             <div className="button mt-7 ">
             <Link href={"#services"}>
@@ -16,7 +16,7 @@ export default function Hero() {
             </Link>
        </div>
             <div className="subheading mt-4 text-xl  w-3/4 ">
-            Empowering businesses in the digital landscape. Our expert team crafts innovative tech solutions, simplifying operations, amplifying productivity & fueling growth.
+            Empowering businesses in the digital landscape. Our expert team crafts innovative tech solutions simplifying operations amplifying productivity and fueling growth.
             </div>
             </div>
         </div>

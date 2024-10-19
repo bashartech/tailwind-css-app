@@ -19,7 +19,7 @@ export default function Footer() {
             <div className="flex flex-col space-y-2">
               <h3 className="text-lg font-semibold">Contact Us</h3>
               <p>Scheme-33</p>
-              <p>Karachi, 12345</p>
+              <p>Karachi 12345</p>
               <p>Phone: 03042985456</p>
               <p>Email: bashartc@gmail.com</p>
             </div>
