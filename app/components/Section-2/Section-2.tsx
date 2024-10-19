@@ -12,7 +12,7 @@ export default function ServicesPage() {
         <div className="box1 hover:h-[402px] hover:lg:w-[652px] hover:w-[402px] flex justify-center items-center rounded-xl bg-[url('https://static.wixstatic.com/media/c837a6_d3c06672bdc54a15a26a7259bb9e6872~mv2.jpg/v1/fill/w_875,h_655,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/E.jpg')] bg-cover bg-center w-[400px] lg:w-[650px] h-[400px]  border-2 border-white">
         <div className="content p-5 ">
         <div className="text1 text-xl font-bold">WEB DEVELOPMENT</div>
-        <div className="para1 mt-2">We craft dynamic, scalable websites that drive engagement and conversion. Transforming digital landscapes with innovative web solutions.</div>
+        <div className="para1 mt-2">We craft dynamic scalable websites that drive engagement and conversion. Transforming digital landscapes with innovative web solutions.</div>
         <div className="button mt-5 ">
         <Link href={"#contact"}>
         <button className="border-2 border-white p-1 rounded-lg hover:bg-gray-700">Get Started</button>
